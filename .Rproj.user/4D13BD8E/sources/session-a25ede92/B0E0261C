@@ -1,0 +1,26 @@
+{
+    "id": "B0E0261C",
+    "path": "~/Github/GeneratorX/App/app.R",
+    "project_path": "App/app.R",
+    "type": "r_source",
+    "hash": "365697988",
+    "contents": "",
+    "dirty": false,
+    "created": 1679753304794.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "117,1",
+        "scrollLine": "101"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1679779780,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1679779780702,
+    "read_only": false,
+    "read_only_alternatives": []
+}
